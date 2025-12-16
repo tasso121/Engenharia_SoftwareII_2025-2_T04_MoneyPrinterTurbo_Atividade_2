@@ -1,0 +1,7 @@
+1. Com base nos dados fornecidos, parece que o repositório 'MoneyPrinterTurbo' utiliza um modelo de fluxo de trabalho (branching model) GitHub Flow. Essa conclusão é inferida a partir da descrição do fluxo de trabalho, no qual o autor atua diretamente na branch 'dev' e realiza o merge para a branch 'main' por meio de Pull Requests. Esse modelo possibilita a integração e entrega contínuas, ao mesmo tempo em que permite à equipe lançar versões estáveis em produção assim que estiverem prontas.
+
+2. A estratégia de releases do 'MoneyPrinterTurbo' aparenta ser baseada em funcionalidades (Feature-based). Isso se deduz do fato de que as releases não seguem um cronograma fixo, sendo criadas apenas quando há o acúmulo de novas funcionalidades ou correções de bugs críticos na branch 'main'. Essa estratégia permite que a equipe lance novas versões sempre que houver alterações significativas a serem entregues aos usuários.
+
+Evidências:
+- Modelo de fluxo GitHub Flow: O autor trabalha na branch 'dev' e integra as alterações na 'main' via pull requests.
+- Estratégia de release baseada em funcionalidades: As releases são criadas quando há novas funcionalidades ou correções críticas acumuladas na branch 'main'.
