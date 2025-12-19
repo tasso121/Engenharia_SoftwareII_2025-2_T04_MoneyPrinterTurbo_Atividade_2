@@ -1,0 +1,14 @@
+--- Analisando Branching Model ---
+```json
+{
+  "branching_model": "Git Flow"
+}
+```
+
+--- Analisando Release Strategy ---
+```json
+{
+  "release_strategy": "Feature-based",
+  "frequency": "Weekly"
+}
+```
