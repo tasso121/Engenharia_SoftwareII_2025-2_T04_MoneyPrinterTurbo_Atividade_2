@@ -14,7 +14,7 @@ Inicialmente foram feitas análises manuais no projeto investigando o escopo do 
 
 ---
 
-Utilizamos algumas LLMs do [HuggingFace](https://huggingface.co/models), aqui estão as LLMs escolhidas e o por quê de sua escolha.
+Utilizamos algumas LLMs do [HuggingFace](https://huggingface.co/models), aqui estão as LLMs escolhidas e o por quê de sua escolha. Para trabalhar com as LLMs, foram criados 3 notebooks no GoogleColab, que possui um ambiente de execução com GPU Python 3 Google Compute Engine backend, 12.67GB de RAM e 112.64GB de armazenamento.
 
 |                                             Modelo(s)                                              |                                                                                                                                                                                  Justificativa                                                                                                                                                                                  |
 | :------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
